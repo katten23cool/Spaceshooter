@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/nomis/OneDrive/Programmering/monogame/pong/pong_v2/Content/File.spritefont</File>
+    <File>C:/Users/nomis/OneDrive/Programmering/monogame/pong/pong_v2/Content/highFont.spritefont</File>
+    <File>C:/Users/nomis/OneDrive/Programmering/monogame/pong/pong_v2/Content/images/background.png</File>
+    <File>C:/Users/nomis/OneDrive/Programmering/monogame/pong/pong_v2/Content/images/background2.png</File>
+    <File>C:/Users/nomis/OneDrive/Programmering/monogame/pong/pong_v2/Content/images/background3.png</File>
+    <File>C:/Users/nomis/OneDrive/Programmering/monogame/pong/pong_v2/Content/images/background4.png</File>
+    <File>C:/Users/nomis/OneDrive/Programmering/monogame/pong/pong_v2/Content/images/background5.png</File>
+    <File>C:/Users/nomis/OneDrive/Programmering/monogame/pong/pong_v2/Content/images/enemies/bob.png</File>
+    <File>C:/Users/nomis/OneDrive/Programmering/monogame/pong/pong_v2/Content/images/enemies/bosses/boss1.png</File>
+    <File>C:/Users/nomis/OneDrive/Programmering/monogame/pong/pong_v2/Content/images/enemies/bullet1.png</File>
+    <File>C:/Users/nomis/OneDrive/Programmering/monogame/pong/pong_v2/Content/images/enemies/death.png</File>
+    <File>C:/Users/nomis/OneDrive/Programmering/monogame/pong/pong_v2/Content/images/enemies/enemies.png</File>
+    <File>C:/Users/nomis/OneDrive/Programmering/monogame/pong/pong_v2/Content/images/enemies/mine_2.png</File>
+    <File>C:/Users/nomis/OneDrive/Programmering/monogame/pong/pong_v2/Content/images/enemies/mine.png</File>
+    <File>C:/Users/nomis/OneDrive/Programmering/monogame/pong/pong_v2/Content/images/enemies/stone.png</File>
+    <File>C:/Users/nomis/OneDrive/Programmering/monogame/pong/pong_v2/Content/images/enemies/tripod.png</File>
+    <File>C:/Users/nomis/OneDrive/Programmering/monogame/pong/pong_v2/Content/images/menu/About.png</File>
+    <File>C:/Users/nomis/OneDrive/Programmering/monogame/pong/pong_v2/Content/images/menu/exit.png</File>
+    <File>C:/Users/nomis/OneDrive/Programmering/monogame/pong/pong_v2/Content/images/menu/highscore.png</File>
+    <File>C:/Users/nomis/OneDrive/Programmering/monogame/pong/pong_v2/Content/images/menu/mainmenu.png</File>
+    <File>C:/Users/nomis/OneDrive/Programmering/monogame/pong/pong_v2/Content/images/menu/spelare.png</File>
+    <File>C:/Users/nomis/OneDrive/Programmering/monogame/pong/pong_v2/Content/images/menu/start.png</File>
+    <File>C:/Users/nomis/OneDrive/Programmering/monogame/pong/pong_v2/Content/images/menu/statistic.png</File>
+    <File>C:/Users/nomis/OneDrive/Programmering/monogame/pong/pong_v2/Content/images/obstacles/basic_obstacles.png</File>
+    <File>C:/Users/nomis/OneDrive/Programmering/monogame/pong/pong_v2/Content/images/Planets/galaxy.png</File>
+    <File>C:/Users/nomis/OneDrive/Programmering/monogame/pong/pong_v2/Content/images/Planets/gas.png</File>
+    <File>C:/Users/nomis/OneDrive/Programmering/monogame/pong/pong_v2/Content/images/player/bomb.png</File>
+    <File>C:/Users/nomis/OneDrive/Programmering/monogame/pong/pong_v2/Content/images/player/bouncingbullet.png</File>
+    <File>C:/Users/nomis/OneDrive/Programmering/monogame/pong/pong_v2/Content/images/player/bullet.png</File>
+    <File>C:/Users/nomis/OneDrive/Programmering/monogame/pong/pong_v2/Content/images/player/playership.png</File>
+    <File>C:/Users/nomis/OneDrive/Programmering/monogame/pong/pong_v2/Content/images/player/rocket/rocket.png</File>
+    <File>C:/Users/nomis/OneDrive/Programmering/monogame/pong/pong_v2/Content/images/powerups/double_Shot.png</File>
+    <File>C:/Users/nomis/OneDrive/Programmering/monogame/pong/pong_v2/Content/images/powerups/firingrate.png</File>
+    <File>C:/Users/nomis/OneDrive/Programmering/monogame/pong/pong_v2/Content/images/powerups/heart.png</File>
+    <File>C:/Users/nomis/OneDrive/Programmering/monogame/pong/pong_v2/Content/images/powerups/movementspeed.png</File>
+    <File>C:/Users/nomis/OneDrive/Programmering/monogame/pong/pong_v2/Content/images/powerups/sprite.png</File>
+    <File>C:/Users/nomis/OneDrive/Programmering/monogame/pong/pong_v2/Content/myFont.spritefont</File>
+    <File>C:/Users/nomis/OneDrive/Programmering/monogame/pong/pong_v2/Content/playership.png</File>
+    <File>C:/Users/nomis/OneDrive/Programmering/monogame/pong/pong_v2/Content/sounds/enemies/explosion.wav</File>
+    <File>C:/Users/nomis/OneDrive/Programmering/monogame/pong/pong_v2/Content/sounds/enemies/explosionboss1.wav</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>

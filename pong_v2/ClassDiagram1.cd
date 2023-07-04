@@ -1,0 +1,338 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="SpaceShooter.BackgroundSprite">
+    <Position X="28.5" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Background.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SpaceShooter.Background">
+    <Position X="58" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQQAAAAAAAAAAgAAAAAAAAAAAAgAAAAAAAAAAAAAIAA=</HashCode>
+      <FileName>Background.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SpaceShooter.Database">
+    <Position X="61.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgACAAABAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>db.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SpaceShooter.Enemy">
+    <Position X="24.5" Y="13.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQACACABAAAgoACAACAACAABAIgAAACAAAAAAAIAAg=</HashCode>
+      <FileName>Enemy.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SpaceShooter.Mine">
+    <Position X="25.75" Y="19" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAACAAAAAggAIAAAAACAAAAIgAAACAAAAAAAAAAA=</HashCode>
+      <FileName>Enemy.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SpaceShooter.Tripod">
+    <Position X="16.75" Y="19" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAACAAAAAgAAIAAAAAAAAAAIAAAACAAAAAAAAAAA=</HashCode>
+      <FileName>Enemy.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SpaceShooter.Rock">
+    <Position X="19" Y="19" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQACACAAAAAgAAIAAAAAAAAAAIAAAACAAAAAAAAAAg=</HashCode>
+      <FileName>Enemy.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SpaceShooter.Shooter">
+    <Position X="21.25" Y="19" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQACACABAAAggAIAAAAAAAABAIAAAACAAAAAAAIAAg=</HashCode>
+      <FileName>Enemy.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SpaceShooter.Boss1">
+    <Position X="23.5" Y="19" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQACACABAAAggAAAAAAAAAABAAAAAAAAAAAAAAIEAg=</HashCode>
+      <FileName>Enemy.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SpaceShooter.Boss1_top_turret">
+    <Position X="28" Y="19" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAQAAAAABAAAAoAAAACAAAAABAAAAAAAAAAAAAAIAAA=</HashCode>
+      <FileName>Enemy.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SpaceShooter.Boss1_front_turret">
+    <Position X="32.5" Y="19" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAQACAAABgAAAhACAAAAACAABAAAAAAAAAAAAIAIAAg=</HashCode>
+      <FileName>Enemy.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SpaceShooter.Boss1_bullet">
+    <Position X="5.5" Y="13.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAQAAAAAAAAAAgAAAAAAACAAAAAgAAAAAAQAAAAAAAA=</HashCode>
+      <FileName>Enemy.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SpaceShooter.Game1">
+    <Position X="63.25" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAYAEEAAIAAAAwAAAAAIAAAAAAAAAAgAAAAAAAAAAAQ=</HashCode>
+      <FileName>Game1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SpaceShooter.GameElements">
+    <Position X="65" Y="3.75" Width="1.5" />
+    <NestedTypes>
+      <Enum Name="SpaceShooter.GameElements.highState" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>GameElements.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+      <Enum Name="SpaceShooter.GameElements.PauseMenu" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>GameElements.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+      <Enum Name="SpaceShooter.GameElements.State" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>GameElements.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>I5AAAABQIAKzDQFIJgAgABoABGEoCLSpIJCIhK4PvAQ=</HashCode>
+      <FileName>GameElements.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SpaceShooter.GameObject">
+    <Position X="29.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAABAAAAgAgAAAAAAABAAAAQgAAAAAAAAAAYAA=</HashCode>
+      <FileName>GameObject.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SpaceShooter.MovingObject">
+    <Position X="30.75" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAA=</HashCode>
+      <FileName>GameObject.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SpaceShooter.PhysicalObject">
+    <Position X="30.75" Y="9" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAEAAAAFAAAA=</HashCode>
+      <FileName>GameObject.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SpaceShooter.Level">
+    <Position X="7.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAwAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Level.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SpaceShooter.Level1">
+    <Position X="6.25" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAwQAAAAAgAAAAAAIAQAAAAAAAAAAAAAAAAIAABAAAA=</HashCode>
+      <FileName>Level.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SpaceShooter.Level2">
+    <Position X="8.5" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAwQAAAIAgAgJAAAIAQAAAAAAAAAAAAAAAAIAABAEAA=</HashCode>
+      <FileName>Level.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SpaceShooter.MenuItem">
+    <Position X="52.75" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAgIAAAIAAAAAAAAgAAAAIABAAAAAA=</HashCode>
+      <FileName>Menu.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SpaceShooter.Menu">
+    <Position X="70.25" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgQAAAAAAAAAAgAAABABAAgggAAAAAAAAAAAAgAAAAA=</HashCode>
+      <FileName>Menu.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SpaceShooter.Obstacle">
+    <Position X="37" Y="13.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQACAAAAAAAAgACAAAAACAAAAAgAAAAAAIAAAAAAAg=</HashCode>
+      <FileName>Obstacle.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SpaceShooter.Wall">
+    <Position X="37" Y="19" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Obstacle.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SpaceShooter.WallY">
+    <Position X="39.25" Y="19" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Obstacle.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SpaceShooter.Galaxy">
+    <Position X="34.75" Y="19" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAQAAAAAAAEAAgAAAAAAACAAAEAgAgAQAAAAAAAAAAA=</HashCode>
+      <FileName>Planets.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SpaceShooter.Player">
+    <Position X="7.75" Y="13.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAjAGSgYAApgAAAAAARCACAUAgAAgAIAAAQ6AAAAw=</HashCode>
+      <FileName>Player.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SpaceShooter.Bullet">
+    <Position X="10" Y="13.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQACACAAAAAgAAAAAAAACAAAAAgAAAAAAAAAAAAAAg=</HashCode>
+      <FileName>Player.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SpaceShooter.RocketAmmo">
+    <Position X="14.5" Y="13.25" Width="1.5" />
+    <InheritanceLine Type="SpaceShooter.Powerups" ManuallyRouted="true">
+      <Path>
+        <Point X="50.844" Y="13.25" />
+        <Point X="50.844" Y="12.906" />
+        <Point X="15.25" Y="12.906" />
+        <Point X="15.25" Y="13.25" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAgACAAAAACAAAAAgAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>PowerUp.cs</FileName>
+      <NewMemberFileName>Player.cs</NewMemberFileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SpaceShooter.BouncingBullet">
+    <Position X="41.5" Y="13.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQIAAAAAAAAAgAgAQAAACABAAAgAAAAAAAAAAAEAAA=</HashCode>
+      <FileName>Player.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SpaceShooter.Bomb">
+    <Position X="43.75" Y="13.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CIQAAACAAAEAAhACAIAQACAAgAAgAAAAAAACAAAAAAA=</HashCode>
+      <FileName>Player.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SpaceShooter.Powerups">
+    <Position X="50.5" Y="13.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAAAAAACAAAAAgAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>PowerUp.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SpaceShooter.GoldCoin">
+    <Position X="46" Y="16.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAgACAAAQACAAAAAgAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>PowerUp.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SpaceShooter.DoubleShot">
+    <Position X="48.25" Y="16.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAgACAAAAACAAAAAgAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>PowerUp.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SpaceShooter.HealthPoint">
+    <Position X="50.5" Y="16.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAgACAAAAACAAAAAgAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>PowerUp.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SpaceShooter.MovementSpeed">
+    <Position X="52.75" Y="16.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAgACAAAAACAAAAAgAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>PowerUp.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SpaceShooter.BulletSpeed">
+    <Position X="55" Y="16.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAgACAAAAACAAAAAgAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>PowerUp.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SpaceShooter.PrintText">
+    <Position X="56.25" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAA=</HashCode>
+      <FileName>PrintText.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SpaceShooter.MyTimer">
+    <Position X="54.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAQAAAIAEAAA=</HashCode>
+      <FileName>Timer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HSItem">
+    <Position X="68.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAACAAAAAgAAAAAAAAAQAAAAEAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>HighScore.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HighScore">
+    <Position X="66.75" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIgAAAgKgCAAAAIAAASAAAAAAAkAAAAQAAAAAAAEAA=</HashCode>
+      <FileName>HighScore.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SpaceShooter.Bossspeed">
+    <Position X="59.75" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAA=</HashCode>
+      <FileName>Enemy.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SpaceShooter.Mine_2">
+    <Position X="30.25" Y="19" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQACACAAAAAgAAIAAAAAAAAAAIAAAACAAAAAAAAAAg=</HashCode>
+      <FileName>Enemy.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SpaceShooter.ShooterBullet">
+    <Position X="12.25" Y="13.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAgAAAAAAACAAAAAgAAAAAAQAAAAAAAA=</HashCode>
+      <FileName>Enemy.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
