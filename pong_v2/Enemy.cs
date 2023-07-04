@@ -67,7 +67,7 @@ namespace SpaceShooter
         }
     }
 
-    internal class Mine : Enemy
+    internal class Mine : Enemy //all enemies is suppose to be like this one
     {
         private new Rectangle[] sourceRectangles;
         private new Rectangle rectangle;
